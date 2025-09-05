@@ -1,0 +1,102 @@
+C:\Users\user0\anaconda3\python.exe C:\Users\user0\PycharmProjects\C216\teste.py 
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 1
+Digite o nome do aluno: Joao
+Digite o e-mail do aluno: joao@inatel.br
+Digite o curso do aluno (GEC, GEA, GES, GEB, GET): GEC
+Aluno Joao cadastrado com sucesso! Matrícula: GEC1
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 1
+Digite o nome do aluno: Maria
+Digite o e-mail do aluno: maria@inatel.br
+Digite o curso do aluno (GEC, GEA, GES, GEB, GET): GEC
+Aluno Maria cadastrado com sucesso! Matrícula: GEC2
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 1
+Digite o nome do aluno: Jose
+Digite o e-mail do aluno: jose@inatel.br
+Digite o curso do aluno (GEC, GEA, GES, GEB, GET): GEA
+Aluno Jose cadastrado com sucesso! Matrícula: GEA1
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 2
+Matrícula: GEC1 | Nome: Joao | E-mail: joao@inatel.br | Curso: GEC
+Matrícula: GEC2 | Nome: Maria | E-mail: maria@inatel.br | Curso: GEC
+Matrícula: GEA1 | Nome: Jose | E-mail: jose@inatel.br | Curso: GEA
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 3
+Digite o nome do aluno a ser atualizado: Maria
+Digite o novo e-mail (atual: maria@inatel.br): maria@inatel.br
+Digite o novo curso (GEC, GEA, GES, GEB, GET) (atual: GEC): GEA
+Aluno atualizado com sucesso! Nova matrícula: GEA2
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 2
+Matrícula: GEC1 | Nome: Joao | E-mail: joao@inatel.br | Curso: GEC
+Matrícula: GEA2 | Nome: Maria | E-mail: maria@inatel.br | Curso: GEA
+Matrícula: GEA1 | Nome: Jose | E-mail: jose@inatel.br | Curso: GEA
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 4
+Digite o nome do aluno a ser removido: Maria
+Aluno removido com sucesso!
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 2
+Matrícula: GEC1 | Nome: Joao | E-mail: joao@inatel.br | Curso: GEC
+Matrícula: GEA1 | Nome: Jose | E-mail: jose@inatel.br | Curso: GEA
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 5
+Saindo...
+
+Process finished with exit code 0
